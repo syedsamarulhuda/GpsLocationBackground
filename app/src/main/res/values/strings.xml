@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RunAppBackgorund</string>
+    <string name="local_service_started">Local Service Started</string>
+    <string name="cal_service_startedlo">Call Service Started</string>
+</resources>
